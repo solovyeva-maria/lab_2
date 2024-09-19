@@ -1,0 +1,17 @@
+git config --global user.name
+git config --global user.email maria.solovyeva@yahoo.com
+git config --global user.name
+git clone https://github.com/solovyeva-maria/lab_2.git
+cd D:\Соловьева 1-МД-4\lab_2
+copy con new.txt
+example
+
+type new.txt
+git config --global user.email maria.solovyeva@yahoo.com
+git config --global user.name solovyeva-maria
+git config --global user.name
+git add .
+git commit -m "change_1"
+git push
+doskey /history > 2 лаба.txt
+doskey /history > lab_2_log.txt
