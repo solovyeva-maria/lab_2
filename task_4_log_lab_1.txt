@@ -1,0 +1,10 @@
+copy con task_4_lab_1.txt
+Голодяева
+Цюй
+Романенко
+
+type task_4_lab_1.txt
+sort task_4_lab
+sort task_4_lab_1.txt > task_4_sorted_lab_1.txt
+type task_4_sorted_lab_1.txt
+doskey /history > task_4_log_lab_1.txt

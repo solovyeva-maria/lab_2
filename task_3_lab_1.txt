@@ -1,0 +1,8 @@
+color 8
+color z
+color 98
+color 89
+color 49
+mode 120 100
+mode 120
+doskey /history >task_3_lab_1.txt
